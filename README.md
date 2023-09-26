@@ -1,6 +1,6 @@
 # Bank-Data-Science-ML-Hackathon
 
-![Slide1](https://github.com/dimitrachrl/Bank-Data-Science-ML-Hackathon/assets/65720665/1eb2d827-cca9-4611-99f0-691d4f55fc37)
+
 ![Slide2](https://github.com/dimitrachrl/Bank-Data-Science-ML-Hackathon/assets/65720665/cfd506c8-61bf-4363-99c4-1501e4e9585e)
 ![Slide3](https://github.com/dimitrachrl/Bank-Data-Science-ML-Hackathon/assets/65720665/daf93aff-0b9d-4690-b27b-c7a4ff025175)
 ![Slide4](https://github.com/dimitrachrl/Bank-Data-Science-ML-Hackathon/assets/65720665/b20a505f-ed35-44a4-b20f-9859e785ab8a)
